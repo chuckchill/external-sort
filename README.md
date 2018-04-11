@@ -5,3 +5,6 @@
 ### 选项
 
 设置内存限制，单位是M: `php start.php input/FILENAME 1`
+
+### 参考
+https://github.com/abdimaye/external-sort
